@@ -3,14 +3,14 @@
 Fist, you want to visit the following Website:  
 https://learn.adafruit.com/minipov4-diy-full-color-persistence-of-vision-light-painting-kit?view=all  
 On this Website, scroll down to the "Install Windows Drivers" section.  
-Here, you want to click on this link:
+Here, you want to click on this link:  
 ![title](https://github.com/JeyAl/internship/blob/master/images/drivers_link.PNG)  
-and then download the required drivers:
+and then download the required drivers:  
 ![title](https://github.com/JeyAl/internship/blob/master/images/drivers_download.PNG)  
 
 Follow the installation instructions of the drivers and install the drivers that are selected by default.  
 After you installed the driver, plug in the MiniPOV4 while being turned off, then when it is plugged in, turn it on.
-In your device Manager, there should be a USBTiny device.
+In your device Manager, there should be a USBTiny device.  
 
 ![title](https://github.com/JeyAl/internship/blob/master/images/USBTiny.PNG)  
 
@@ -19,7 +19,7 @@ Download the 2 highlighted files, shown as green buttons:
 
 ![title](https://github.com/JeyAl/internship/blob/master/images/downloads.PNG)  
 
-And download Processing by clicking on the blue button in the same section:
+And download Processing by clicking on the blue button in the same section:  
 
 ![title](https://github.com/JeyAl/internship/blob/master/images/processing.PNG)  
 
